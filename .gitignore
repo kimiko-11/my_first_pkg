@@ -1,0 +1,6 @@
+# ROS generated files
+/build/
+/devel/
+*.pyc
+__pycache__
+
