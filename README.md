@@ -19,7 +19,7 @@ Hi there! This is my first ROS package to make the little turtlesim turtle move 
 1. Open a terminal and run:
 ```bash
 sudo apt install ros-noetic-turtlesim
-
+```
 ## Usage
 ```bash
 rosrun my_first_pkg turtle_controller.py
